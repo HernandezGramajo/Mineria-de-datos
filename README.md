@@ -1,4 +1,5 @@
 # Mineria-de-datos
- Tarea2 apriori
- Tarea3 FPGrowth
+ Tarea 2 apriori
+ Tarea 3 FPGrowth
  Tarea 4 Kmeans
+ Tarea 5 Árbol de decisión
